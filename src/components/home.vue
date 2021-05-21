@@ -14,7 +14,7 @@
 							<a href=""><span>Docs</span></a>
 						</li>
 						<li role="presentation">
-							<a href="https://docsend.com/view/ditsqzm7uciumw6a" target="_blank"><span>Whitepaper02</span></a>
+							<a href="https://docsend.com/view/ditsqzm7uciumw6a" target="_blank"><span>Whitepaper03</span></a>
 						</li>
 						<li role="presentation">
 							<a href=""><span>Blog</span></a>
